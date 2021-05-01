@@ -12,6 +12,7 @@
     text-decoration: none;
     text-transform: capitalize;
     transition: .3s cubic-bezier(.38,1.15,.7,1.12);
+    scroll-behavior: smooth;
 }
 
 *::selection{
